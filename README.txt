@@ -16,3 +16,6 @@
 
 ## Important
 The supplied CSV template is not a scraped dataset. Do not submit it as if it contains real observations. The real CSV files are created when the notebook runs successfully. The site is a practice website with randomly assigned prices and ratings, so conclusions must be limited to this dataset.
+
+## GitHub Repository
+link: https://github.com/1800riley/402600609-DSC500
